@@ -3,7 +3,7 @@ CREATE DATABASE IF NOT EXISTS home_work_task5;
 USE home_work_task5;
 
 /*
-	  1.1 С помощью сайта https://www.mockaroo.com/ сгенерировать таблицу с данными по авто
+1.1 С помощью сайта https://www.mockaroo.com/ сгенерировать таблицу с данными по авто
     1.2 В sql файле создать пустую таблицу "cars" с полями авто (id, car_names, price)
     1.3 Подгрузить сгенерированную таблицу в созданную ("cars") и отобразить содержимое
 */
